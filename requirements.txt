@@ -1,8 +1,5 @@
-pillow
+Pillow
 wandb
-torch
-torchvision
-tqdm
 torch
 torchvision
 tqdm
