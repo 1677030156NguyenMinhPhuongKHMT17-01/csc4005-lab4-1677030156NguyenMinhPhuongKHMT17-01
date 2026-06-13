@@ -10,3 +10,6 @@ scikit-learn
 matplotlib
 numpy
 pandas
+librosa
+soundfile
+scipy
